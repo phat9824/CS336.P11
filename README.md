@@ -38,7 +38,7 @@
 ## 🧑‍🏫 GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
 
-- ThS. **Đỗ Văn Tiến** - *duyld@uit.edu.vn*
+- ThS. **Đỗ Văn Tiến** - *tiendv@uit.edu.vn*
 
 <!-- Thông tin thành viên với hiệu ứng hover -->
 ## 👨‍👩‍👧‍👦 THÔNG TIN THÀNH VIÊN
