@@ -1,0 +1,73 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  padding: 20px;
+  font-family: sans-serif;
+  background-color: #f5f5f5;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.chat-history {
+  flex-grow: 1;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.message {
+  padding: 8px 12px;
+  margin-bottom: 8px;
+  border-radius: 10px;
+  max-width: 70%;
+  white-space: pre-wrap; /* Ensures line breaks in multiline messages */
+}
+
+.message.user {
+  background-color: #DCF8C6;
+  align-self: flex-end;
+}
+
+.message.bot {
+  background-color: #E0E0E0;
+  align-self: flex-start;
+}
+
+.message.loading {
+  font-style: italic;
+}
+
+.chat-input {
+  display: flex;
+  align-items: center;
+}
+
+.chat-input input {
+  flex-grow: 1;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+.chat-input button {
+  padding: 10px 15px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.chat-input button:hover {
+  background-color: #0056b3;
+}
