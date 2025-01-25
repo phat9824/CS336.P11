@@ -46,7 +46,7 @@
 | MSSV       | Họ và Tên          | Email                   | 
 | ---------- | ------------------ | ----------------------- | 
 | `22521060` | Lê Minh Nhựt        | 22521060@gm.uit.edu.vn   | 
-| `22521027` | Nguyễn Hùng Phát     | 22521074@gm.uit.edu.vn   | 
+| `22521074` | Nguyễn Hùng Phát     | 22521074@gm.uit.edu.vn   | 
 | `22520195` | Trần Đình Khánh Đăng | 22520195@gm.uit.edu.vn   | 
 
 <hr>
