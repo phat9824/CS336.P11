@@ -54,7 +54,9 @@
 <!-- Đồ án môn học -->
 ## 🎯 ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
-- Mô tả chi tiết đồ án môn học sẽ được cập nhật sau.
+
+- ![image](https://github.com/user-attachments/assets/36a6bb1c-8d01-4877-8d13-81967727341d)
+
 
 <!-- Footer với GIF -->
 <p align="center">
